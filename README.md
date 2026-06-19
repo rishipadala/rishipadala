@@ -12,7 +12,7 @@
   
   <!-- Animated Roles -->
   <a href="https://github.com/rishipadala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%7C+Java+Full-Stack+Developer;Gen+AI+Enthusiast+%F0%9F%A4%96;Building+Scalable+Backend+Systems+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%7C+Java+Backend+Developer;Gen+AI+Enthusiast+%F0%9F%A4%96;Building+Scalable+Backend+Systems+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG"/>
   </a>
   
 
@@ -36,7 +36,7 @@ education: B.E. Computer Engineering (Final Year)
 current_focus: Building AI-powered applications
 
 interests:
-  - Java Full-Stack Development
+  - Java Backend Development
   - Event-Driven Architecture
   - Generative AI & LLMs
 

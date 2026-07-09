@@ -12,7 +12,7 @@
   
   <!-- Animated Roles -->
   <a href="https://github.com/rishipadala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%7C+Java+Backend+Developer;Gen+AI+Enthusiast+%F0%9F%A4%96;Building+Scalable+Backend+Systems+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%7C+Java+Backend+Developer;Gen+AI+Enthusiast+%F0%9F%A4%96;Building+Scalable+Backend+Systems+%F0%9F%9A%80;Actively+Seeking+Backend+SWE+Roles+%F0%9F%92%BC" alt="Typing SVG"/>
   </a>
   
 
@@ -32,8 +32,8 @@
 ```yaml
 name: Rishi Padala
 location: Mumbai, India 🇮🇳
-education: B.E. Computer Engineering (Final Year)
-current_focus: Building AI-powered applications
+education: B.E. Computer Engineering, 2026 Graduate (University of Mumbai)
+current_focus: Backend Engineering + Applied Generative AI
 
 interests:
   - Java Backend Development
@@ -41,10 +41,10 @@ interests:
   - Generative AI & LLMs
 
 fun_facts:
-  - 🔭 Currently working on AI-powered documentation tools
-  - 🌱 Learning advanced Spring ecosystem...
-  - 💬 Ask me about Java, Spring Boot, or building REST APIs
-  - ⚡ Fun fact: I debug code faster after coffee ☕
+  - 🔭 Currently open to Backend / Full Stack SWE roles
+  - 🌱 Learning advanced Spring ecosystem and distributed systems
+  - 💬 Ask me about Java, Spring Boot, Kafka, or building REST APIs
+  - ⚡ I ship real, deployed products — not just academic assignments
 ```
 
 <!-- Cool animated line -->
@@ -74,11 +74,6 @@ fun_facts:
   <img src="https://github-profile-trophy.vercel.app/?username=rishipadala&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishipadala&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
 <!-- Cool animated line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -99,6 +94,10 @@ fun_facts:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### 🤖 AI / Gen AI
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -128,7 +127,6 @@ fun_facts:
 
 [![Spicy Symphony](https://github-readme-stats.vercel.app/api/pin/?username=rishipadala&repo=Spicy-Symphony&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/rishipadala/Spicy-Symphony)
 
-
 </div>
 
 <!-- Cool animated line -->
@@ -140,6 +138,7 @@ fun_facts:
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishi-padala-4023b723b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishipadala)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://rishipadala.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvpadala20@gmail.com)
 
 </div>
@@ -147,11 +146,11 @@ fun_facts:
 <!-- Cool animated line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💭 Random Dev Quote
+## 💭 Dev Quote
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=6AD3F7&center=true&vCenter=true&width=400&lines=git+commit+-m+%27fixed+it+fr+fr%27" alt="Dev Quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=6AD3F7&center=true&vCenter=true&width=400&lines=Works+on+my+machine+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Dev Quote"/>
   <br/>
   <sub><i>— random dev</i></sub>
   

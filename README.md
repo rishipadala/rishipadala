@@ -43,7 +43,7 @@ interests:
 fun_facts:
   - 🔭 Currently open to Backend / Full Stack SWE roles
   - 🌱 Learning advanced Spring ecosystem and distributed systems
-  - 💬 Ask me about Java, Spring Boot, Kafka, or building REST APIs
+  - 💬 Ask me about Java, Spring Boot, AI, or building REST APIs
   - ⚡ I ship real, deployed products — not just academic assignments
 ```
 
